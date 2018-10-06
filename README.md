@@ -1,2 +1,2 @@
 # AliExpressParser
-AliExpress Parser. Parser zhenskoy obuvi parser of women's shoes
+AliExpress Parser. Parser of women's shoes
